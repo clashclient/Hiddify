@@ -1,2 +1,1 @@
-# Hiddify
-Hiddify 官网下载资源分享
+# Hiddify 官网下载资源分享
